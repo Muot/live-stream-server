@@ -1,1 +1,1 @@
-# live-stream-server
+sudo apt update && sudo apt upgrade
